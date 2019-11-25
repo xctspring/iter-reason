@@ -71,4 +71,5 @@ do
     --set ${EXTRA_ARGS}
 done
 
-
+# add
+./experiments/scripts/test.sh $@
